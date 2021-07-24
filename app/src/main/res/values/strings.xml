@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List_Screen</string>
+    <string name="androidPixels">Android Pixels</string>
+    <string name="pixel1">Pixel 1</string>
+    <string name="pixel2">Pixel 2</string>
+    <string name="pixel3">Pixel 3</string>
+    <string name="pixel4">Pixel 4</string>
+    <string name="iPhone12">IPhone 12</string>
+</resources>
